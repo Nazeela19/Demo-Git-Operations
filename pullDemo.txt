@@ -1,0 +1,2 @@
+hello how are you
+echo "i am good"
